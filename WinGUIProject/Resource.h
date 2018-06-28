@@ -16,7 +16,7 @@
 #define IDC_MYICON				2
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
-#define IDS_MY_VER				5
+#define IDS_MY_VER				6
 #endif
 // Next default values for new objects
 //
